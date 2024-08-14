@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software develoment and Web Development projects.
 - 📫 How to reach me sodingalwando98@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like (HIP HOP music)
+- ⚡ Fun fact:
 
 <!---
 LwandoS30/LwandoS30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
