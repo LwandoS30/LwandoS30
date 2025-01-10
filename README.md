@@ -1,5 +1,5 @@
 - 👋 Hi, I am Lwand Sodinga, and I aspire to be a full stack developer.
-- 👀 I’m interested in Sodftware Development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Cloud Computing and Full-stack Development
 - 💞️ I’m looking to collaborate on Software develoment and Web Development projects.
 - 📫 How to reach me sodingalwando98@gmail.com
