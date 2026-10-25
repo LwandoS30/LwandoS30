@@ -1,4 +1,4 @@
-- 👋 Hi, I am Lwand Sodinga, a software developer, tester and cloud engineer.
+- 👋 Hi, I am Lwand Sodinga, a software developer, technical tester (automation) and cloud engineer.
 - ⚡ Fun fact: I don't watch or follow sport.
 
 
